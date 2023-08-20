@@ -1,3 +1,4 @@
+test/logging.md:3: WARNING: Unknown directive type: 'php:namespacee' [myst.directive_unknown]
 test/logging.md:8: WARNING: [phpdomain] In-class type requires class
 test/logging.md:13: WARNING: [phpdomain] Unexpected name in non in-class type
 test/logging.md:18: WARNING: [phpdomain] Invalid signature
