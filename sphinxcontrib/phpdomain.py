@@ -6,6 +6,7 @@
     :copyright: Copyright 2016 by Mark Story
     :license: BSD, see LICENSE for details.
 """
+
 import re
 import inspect
 
